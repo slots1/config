@@ -1,3 +1,1 @@
-{"helloxfun888":false,"force":false,
-"url":"https://play.google.com/store/apps/details?id=com.xunfun888.www",
-"version":"1.0.0","code":1}
+{"helloxfun888":false,"force":false,"version":"1.0.0","code":1}
